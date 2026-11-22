@@ -23,7 +23,7 @@
 
 Программа поставляется в виде одного переносимого `.exe` файла и не требует установки сторонних библиотек:
 
-1. Скачайте `steamgamehelper.exe` из раздела [Releases](https://github.com/) или архив `SteamGameHelper.zip`.
+1. Скачайте `SteamGameHelper.zip` из раздела [Releases]([https://github.com/](https://github.com/mialovvv/steamgamehelper/releases)).
 2. Запустите файл на Windows 10 или 11.
 
 ---
